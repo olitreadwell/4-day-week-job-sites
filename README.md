@@ -16,7 +16,7 @@ Consolidated and deduplicated from popular community lists, then checked with
 
 Current state (checked 2026-09-02):
 
-- **7 live**: reachable and returning 2xx/3xx
+- **5 live**: reachable and returning 2xx/3xx
 - **0 bot-blocked**: site is up but blocks automated checks (403/429)
 - **0 dead or unreachable**: 404, 5xx, DNS/TLS errors, or timeout
 
